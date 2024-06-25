@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satvikcu21&label=Profile%20views&color=0e75b6&style=flat" alt="satvikcu21" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satvikcu21" alt="satvikcu21" /></a> </p>
+
 - 🌱 I’m currently learning **Node JS**
 
 - 👯 I’m looking to collaborate on **React Projects**
